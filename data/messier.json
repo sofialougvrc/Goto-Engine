@@ -1,0 +1,772 @@
+[
+  {
+    "id": "M1",
+    "name": "Crab Nebula",
+    "type": "supernova remnant",
+    "ra_deg": 83.63291667,
+    "dec_deg": 22.0145
+  },
+  {
+    "id": "M2",
+    "name": "M2",
+    "type": "globular cluster",
+    "ra_deg": 323.3625,
+    "dec_deg": -0.82325
+  },
+  {
+    "id": "M3",
+    "name": "M3",
+    "type": "globular cluster",
+    "ra_deg": 205.54833333,
+    "dec_deg": 28.37727778
+  },
+  {
+    "id": "M4",
+    "name": "Spider Globular Cluster",
+    "type": "globular cluster",
+    "ra_deg": 245.89666667,
+    "dec_deg": -26.52575
+  },
+  {
+    "id": "M5",
+    "name": "Rose Cluster",
+    "type": "globular cluster",
+    "ra_deg": 229.63833333,
+    "dec_deg": 2.08102778
+  },
+  {
+    "id": "M6",
+    "name": "Butterfly Cluster",
+    "type": "open cluster",
+    "ra_deg": 265.025,
+    "dec_deg": -32.21666667
+  },
+  {
+    "id": "M7",
+    "name": "Ptolemy's Cluster",
+    "type": "open cluster",
+    "ra_deg": 268.46333333,
+    "dec_deg": -34.79277778
+  },
+  {
+    "id": "M8",
+    "name": "Lagoon Nebula",
+    "type": "nebula with cluster",
+    "ra_deg": 270.90416667,
+    "dec_deg": -24.38666667
+  },
+  {
+    "id": "M9",
+    "name": "M9",
+    "type": "globular cluster",
+    "ra_deg": 259.79916667,
+    "dec_deg": -18.51625
+  },
+  {
+    "id": "M10",
+    "name": "M10",
+    "type": "globular cluster",
+    "ra_deg": 254.28708333,
+    "dec_deg": -4.09947222
+  },
+  {
+    "id": "M11",
+    "name": "Wild Duck Cluster",
+    "type": "open cluster",
+    "ra_deg": 282.775,
+    "dec_deg": -6.26666667
+  },
+  {
+    "id": "M12",
+    "name": "M12",
+    "type": "globular cluster",
+    "ra_deg": 251.80916667,
+    "dec_deg": -1.94852778
+  },
+  {
+    "id": "M13",
+    "name": "Great Hercules Cluster",
+    "type": "globular cluster",
+    "ra_deg": 250.42166667,
+    "dec_deg": 36.45986111
+  },
+  {
+    "id": "M14",
+    "name": "M14",
+    "type": "globular cluster",
+    "ra_deg": 264.40083333,
+    "dec_deg": -3.24591667
+  },
+  {
+    "id": "M15",
+    "name": "Great Pegasus Cluster",
+    "type": "globular cluster",
+    "ra_deg": 322.49291667,
+    "dec_deg": 12.167
+  },
+  {
+    "id": "M16",
+    "name": "Eagle Nebula",
+    "type": "h ii region nebula with cluster",
+    "ra_deg": 274.7,
+    "dec_deg": -13.81666667
+  },
+  {
+    "id": "M17",
+    "name": "Omega, Swan, Horseshoe, Lobster, or Checkmark Nebula",
+    "type": "h ii region nebula with cluster",
+    "ra_deg": 275.10833333,
+    "dec_deg": -16.17666667
+  },
+  {
+    "id": "M18",
+    "name": "Black Swan Cluster",
+    "type": "open cluster",
+    "ra_deg": 274.975,
+    "dec_deg": -17.13333333
+  },
+  {
+    "id": "M19",
+    "name": "M19",
+    "type": "globular cluster",
+    "ra_deg": 255.65708333,
+    "dec_deg": -26.26794444
+  },
+  {
+    "id": "M20",
+    "name": "Trifid Nebula",
+    "type": "h ii region nebula with cluster",
+    "ra_deg": 270.59583333,
+    "dec_deg": -23.03
+  },
+  {
+    "id": "M21",
+    "name": "Webb's Cross Cluster",
+    "type": "open cluster",
+    "ra_deg": 271.15,
+    "dec_deg": -22.5
+  },
+  {
+    "id": "M22",
+    "name": "Great Sagittarius Cluster",
+    "type": "globular cluster",
+    "ra_deg": 279.09958333,
+    "dec_deg": -23.90475
+  },
+  {
+    "id": "M23",
+    "name": "M23",
+    "type": "open cluster",
+    "ra_deg": 269.2,
+    "dec_deg": -19.01666667
+  },
+  {
+    "id": "M24",
+    "name": "Small Sagittarius Star Cloud",
+    "type": "milky way star cloud",
+    "ra_deg": 274.25,
+    "dec_deg": -18.55
+  },
+  {
+    "id": "M25",
+    "name": "M25",
+    "type": "open cluster",
+    "ra_deg": 277.9,
+    "dec_deg": -19.25
+  },
+  {
+    "id": "M26",
+    "name": "M26",
+    "type": "open cluster",
+    "ra_deg": 281.3,
+    "dec_deg": -9.4
+  },
+  {
+    "id": "M27",
+    "name": "Dumbbell Nebula",
+    "type": "planetary nebula",
+    "ra_deg": 299.90125,
+    "dec_deg": 22.72113889
+  },
+  {
+    "id": "M28",
+    "name": "M28",
+    "type": "globular cluster",
+    "ra_deg": 276.13708333,
+    "dec_deg": -24.86983333
+  },
+  {
+    "id": "M29",
+    "name": "Cooling Tower Cluster",
+    "type": "open cluster",
+    "ra_deg": 305.98333333,
+    "dec_deg": 38.52333333
+  },
+  {
+    "id": "M30",
+    "name": "Jellyfish Cluster",
+    "type": "globular cluster",
+    "ra_deg": 325.09208333,
+    "dec_deg": -23.17986111
+  },
+  {
+    "id": "M31",
+    "name": "Andromeda Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 10.68458333,
+    "dec_deg": 41.26916667
+  },
+  {
+    "id": "M32",
+    "name": "Andromeda Satellite #1",
+    "type": "dwarf elliptical galaxy",
+    "ra_deg": 10.67416667,
+    "dec_deg": 40.86527778
+  },
+  {
+    "id": "M33",
+    "name": "Triangulum/Pinwheel Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 23.45833333,
+    "dec_deg": 30.66019444
+  },
+  {
+    "id": "M34",
+    "name": "Spiral Cluster",
+    "type": "open cluster",
+    "ra_deg": 40.525,
+    "dec_deg": 42.76666667
+  },
+  {
+    "id": "M35",
+    "name": "Shoe-Buckle Cluster",
+    "type": "open cluster",
+    "ra_deg": 92.275,
+    "dec_deg": 24.35
+  },
+  {
+    "id": "M36",
+    "name": "Pinwheel Cluster",
+    "type": "open cluster",
+    "ra_deg": 84.05,
+    "dec_deg": 34.13444444
+  },
+  {
+    "id": "M37",
+    "name": "Salt and Pepper Cluster",
+    "type": "open cluster",
+    "ra_deg": 88.075,
+    "dec_deg": 32.55055556
+  },
+  {
+    "id": "M38",
+    "name": "Starfish Cluster",
+    "type": "open cluster",
+    "ra_deg": 82.175,
+    "dec_deg": 35.855
+  },
+  {
+    "id": "M39",
+    "name": "Pyramid Cluster",
+    "type": "open cluster",
+    "ra_deg": 322.925,
+    "dec_deg": 48.43333333
+  },
+  {
+    "id": "M40",
+    "name": "Winnecke 4",
+    "type": "optical double",
+    "ra_deg": 185.55208333,
+    "dec_deg": 58.08305556
+  },
+  {
+    "id": "M41",
+    "name": "Little Beehive Cluster",
+    "type": "open cluster",
+    "ra_deg": 101.5,
+    "dec_deg": -20.76666667
+  },
+  {
+    "id": "M42",
+    "name": "Great Orion Nebula",
+    "type": "h ii region nebula",
+    "ra_deg": 83.82208333,
+    "dec_deg": -5.39111111
+  },
+  {
+    "id": "M43",
+    "name": "De Mairan's Nebula",
+    "type": "h ii region nebula (part of the orion nebula)<br />",
+    "ra_deg": 83.9,
+    "dec_deg": -5.26666667
+  },
+  {
+    "id": "M44",
+    "name": "Beehive Cluster or Praesepe",
+    "type": "open cluster",
+    "ra_deg": 130.1,
+    "dec_deg": 19.98333333
+  },
+  {
+    "id": "M45",
+    "name": "Pleiades, Seven Sisters or Subaru",
+    "type": "open cluster",
+    "ra_deg": 56.85,
+    "dec_deg": 24.11666667
+  },
+  {
+    "id": "M46",
+    "name": "M46",
+    "type": "open cluster",
+    "ra_deg": 115.45,
+    "dec_deg": -14.81666667
+  },
+  {
+    "id": "M47",
+    "name": "M47",
+    "type": "open cluster",
+    "ra_deg": 114.15,
+    "dec_deg": -14.5
+  },
+  {
+    "id": "M48",
+    "name": "M48",
+    "type": "open cluster",
+    "ra_deg": 123.425,
+    "dec_deg": -5.75
+  },
+  {
+    "id": "M49",
+    "name": "M49",
+    "type": "elliptical galaxy",
+    "ra_deg": 187.44458333,
+    "dec_deg": 8.00055556
+  },
+  {
+    "id": "M50",
+    "name": "Heart-Shaped Cluster",
+    "type": "open cluster",
+    "ra_deg": 105.8,
+    "dec_deg": -8.33333333
+  },
+  {
+    "id": "M51",
+    "name": "Whirlpool Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 202.46958333,
+    "dec_deg": 47.19527778
+  },
+  {
+    "id": "M52",
+    "name": "Scorpion Cluster",
+    "type": "open cluster",
+    "ra_deg": 351.05,
+    "dec_deg": 61.58333333
+  },
+  {
+    "id": "M53",
+    "name": "M53",
+    "type": "globular cluster",
+    "ra_deg": 198.23041667,
+    "dec_deg": 18.16816667
+  },
+  {
+    "id": "M54",
+    "name": "M54",
+    "type": "globular cluster",
+    "ra_deg": 283.76375,
+    "dec_deg": -30.47986111
+  },
+  {
+    "id": "M55",
+    "name": "Specter Cluster",
+    "type": "globular cluster",
+    "ra_deg": 294.99875,
+    "dec_deg": -30.96475
+  },
+  {
+    "id": "M56",
+    "name": "M56",
+    "type": "globular cluster",
+    "ra_deg": 289.14833333,
+    "dec_deg": 30.18347222
+  },
+  {
+    "id": "M57",
+    "name": "Ring Nebula",
+    "type": "planetary nebula",
+    "ra_deg": 283.39625,
+    "dec_deg": 33.02916667
+  },
+  {
+    "id": "M58",
+    "name": "M58",
+    "type": "barred spiral galaxy",
+    "ra_deg": 189.43125,
+    "dec_deg": 11.81805556
+  },
+  {
+    "id": "M59",
+    "name": "M59",
+    "type": "elliptical galaxy",
+    "ra_deg": 190.50958333,
+    "dec_deg": 11.64694444
+  },
+  {
+    "id": "M60",
+    "name": "M60",
+    "type": "elliptical galaxy",
+    "ra_deg": 190.915,
+    "dec_deg": 11.5525
+  },
+  {
+    "id": "M61",
+    "name": "Swelling Spiral Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 185.47875,
+    "dec_deg": 4.47361111
+  },
+  {
+    "id": "M62",
+    "name": "Flickering Globular",
+    "type": "globular cluster",
+    "ra_deg": 255.3025,
+    "dec_deg": -30.11236111
+  },
+  {
+    "id": "M63",
+    "name": "Sunflower Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 198.95541667,
+    "dec_deg": 42.02916667
+  },
+  {
+    "id": "M64",
+    "name": "Black Eye Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 194.18208333,
+    "dec_deg": 21.68277778
+  },
+  {
+    "id": "M65",
+    "name": "Leo Triplet",
+    "type": "barred spiral galaxy",
+    "ra_deg": 169.73291667,
+    "dec_deg": 13.09222222
+  },
+  {
+    "id": "M66",
+    "name": "Leo Triplet",
+    "type": "barred spiral galaxy",
+    "ra_deg": 170.0625,
+    "dec_deg": 12.99166667
+  },
+  {
+    "id": "M67",
+    "name": "King Cobra or Golden Eye Cluster",
+    "type": "open cluster",
+    "ra_deg": 132.825,
+    "dec_deg": 11.81666667
+  },
+  {
+    "id": "M68",
+    "name": "M68",
+    "type": "globular cluster",
+    "ra_deg": 189.86666667,
+    "dec_deg": -26.74405556
+  },
+  {
+    "id": "M69",
+    "name": "M69",
+    "type": "globular cluster",
+    "ra_deg": 277.84625,
+    "dec_deg": -32.34808333
+  },
+  {
+    "id": "M70",
+    "name": "M70",
+    "type": "globular cluster",
+    "ra_deg": 280.80333333,
+    "dec_deg": -32.29211111
+  },
+  {
+    "id": "M71",
+    "name": "Angelfish Cluster",
+    "type": "globular cluster",
+    "ra_deg": 298.44375,
+    "dec_deg": 18.77919444
+  },
+  {
+    "id": "M72",
+    "name": "M72",
+    "type": "globular cluster",
+    "ra_deg": 313.36541667,
+    "dec_deg": -12.53730556
+  },
+  {
+    "id": "M73",
+    "name": "M73",
+    "type": "asterism",
+    "ra_deg": 314.725,
+    "dec_deg": -12.63333333
+  },
+  {
+    "id": "M74",
+    "name": "Phantom Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 24.17416667,
+    "dec_deg": 15.78361111
+  },
+  {
+    "id": "M75",
+    "name": "M75",
+    "type": "globular cluster",
+    "ra_deg": 301.52,
+    "dec_deg": -21.92116667
+  },
+  {
+    "id": "M76",
+    "name": "Little Dumbbell Nebula",
+    "type": "planetary nebula",
+    "ra_deg": 25.6,
+    "dec_deg": 51.57527778
+  },
+  {
+    "id": "M77",
+    "name": "Cetus A or Squid Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 40.66958333,
+    "dec_deg": -0.01333333
+  },
+  {
+    "id": "M78",
+    "name": "M78",
+    "type": "diffuse nebula",
+    "ra_deg": 86.69458333,
+    "dec_deg": 0.01388889
+  },
+  {
+    "id": "M79",
+    "name": "M79",
+    "type": "globular cluster",
+    "ra_deg": 81.04416667,
+    "dec_deg": -24.52425
+  },
+  {
+    "id": "M80",
+    "name": "M80",
+    "type": "globular cluster",
+    "ra_deg": 244.26,
+    "dec_deg": -22.97608333
+  },
+  {
+    "id": "M81",
+    "name": "Bode's Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 148.88833333,
+    "dec_deg": 69.06527778
+  },
+  {
+    "id": "M82",
+    "name": "Cigar Galaxy",
+    "type": "starburst galaxy",
+    "ra_deg": 148.9675,
+    "dec_deg": 69.67972222
+  },
+  {
+    "id": "M83",
+    "name": "Southern Pinwheel Galaxy",
+    "type": "barred spiral galaxy",
+    "ra_deg": 204.25375,
+    "dec_deg": -29.86583333
+  },
+  {
+    "id": "M84",
+    "name": "M84",
+    "type": "lenticular galaxy",
+    "ra_deg": 186.26541667,
+    "dec_deg": 12.88694444
+  },
+  {
+    "id": "M85",
+    "name": "M85",
+    "type": "lenticular galaxy",
+    "ra_deg": 186.35,
+    "dec_deg": 18.19111111
+  },
+  {
+    "id": "M86",
+    "name": "M86",
+    "type": "lenticular galaxy",
+    "ra_deg": 186.54875,
+    "dec_deg": 12.94611111
+  },
+  {
+    "id": "M87",
+    "name": "Virgo A",
+    "type": "elliptical galaxy",
+    "ra_deg": 187.70583333,
+    "dec_deg": 12.39111111
+  },
+  {
+    "id": "M88",
+    "name": "M88",
+    "type": "spiral galaxy",
+    "ra_deg": 187.99666667,
+    "dec_deg": 14.42055556
+  },
+  {
+    "id": "M89",
+    "name": "M89",
+    "type": "elliptical galaxy",
+    "ra_deg": 188.91583333,
+    "dec_deg": 12.55638889
+  },
+  {
+    "id": "M90",
+    "name": "Carabin Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 189.2075,
+    "dec_deg": 13.16277778
+  },
+  {
+    "id": "M91",
+    "name": "M91",
+    "type": "barred spiral galaxy",
+    "ra_deg": 188.86,
+    "dec_deg": 14.49638889
+  },
+  {
+    "id": "M92",
+    "name": "M92",
+    "type": "globular cluster",
+    "ra_deg": 259.28083333,
+    "dec_deg": 43.13594444
+  },
+  {
+    "id": "M93",
+    "name": "Critter Cluster",
+    "type": "open cluster",
+    "ra_deg": 116.15,
+    "dec_deg": -23.86666667
+  },
+  {
+    "id": "M94",
+    "name": "Crocodile Eye or Cat's Eye Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 192.72125,
+    "dec_deg": 41.12055556
+  },
+  {
+    "id": "M95",
+    "name": "M95",
+    "type": "barred spiral galaxy",
+    "ra_deg": 160.99041667,
+    "dec_deg": 11.70388889
+  },
+  {
+    "id": "M96",
+    "name": "M96",
+    "type": "spiral galaxy",
+    "ra_deg": 161.69041667,
+    "dec_deg": 11.82
+  },
+  {
+    "id": "M97",
+    "name": "Owl Nebula",
+    "type": "planetary nebula",
+    "ra_deg": 168.69875,
+    "dec_deg": 55.01902778
+  },
+  {
+    "id": "M98",
+    "name": "M98",
+    "type": "spiral galaxy",
+    "ra_deg": 183.45125,
+    "dec_deg": 14.90047222
+  },
+  {
+    "id": "M99",
+    "name": "St. Catherine's Wheel",
+    "type": "spiral galaxy",
+    "ra_deg": 184.70666667,
+    "dec_deg": 14.41638889
+  },
+  {
+    "id": "M100",
+    "name": "Mirror Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 185.72875,
+    "dec_deg": 15.8225
+  },
+  {
+    "id": "M101",
+    "name": "Pinwheel Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 210.8025,
+    "dec_deg": 54.34916667
+  },
+  {
+    "id": "M102",
+    "name": "Spindle Galaxy",
+    "type": "lenticular galaxy",
+    "ra_deg": 226.62291667,
+    "dec_deg": 55.76333333
+  },
+  {
+    "id": "M103",
+    "name": "M103",
+    "type": "open cluster",
+    "ra_deg": 23.3,
+    "dec_deg": 60.7
+  },
+  {
+    "id": "M104",
+    "name": "Sombrero Galaxy",
+    "type": "spiral galaxy",
+    "ra_deg": 189.9975,
+    "dec_deg": -11.62305556
+  },
+  {
+    "id": "M105",
+    "name": "M105",
+    "type": "elliptical galaxy",
+    "ra_deg": 161.95666667,
+    "dec_deg": 12.58166667
+  },
+  {
+    "id": "M106",
+    "name": "M106",
+    "type": "spiral galaxy",
+    "ra_deg": 184.73958333,
+    "dec_deg": 47.30388889
+  },
+  {
+    "id": "M107",
+    "name": "Crucifix Cluster",
+    "type": "globular cluster",
+    "ra_deg": 248.13291667,
+    "dec_deg": -13.05377778
+  },
+  {
+    "id": "M108",
+    "name": "Surfboard Galaxy",
+    "type": "barred spiral galaxy",
+    "ra_deg": 167.87916667,
+    "dec_deg": 55.67416667
+  },
+  {
+    "id": "M109",
+    "name": "Vacuum Cleaner Galaxy",
+    "type": "barred spiral galaxy",
+    "ra_deg": 179.4,
+    "dec_deg": 53.37444444
+  },
+  {
+    "id": "M110",
+    "name": "Andromeda Satellite #2",
+    "type": "dwarf elliptical galaxy",
+    "ra_deg": 10.09208333,
+    "dec_deg": 41.68527778
+  }
+]
